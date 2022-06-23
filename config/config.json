@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "P@ssw0rd21",
+    "database": "CH8_Swagger_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "P@ssw0rd21",
+    "database": "CH8_Swagger_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "P@ssw0rd21",
+    "database": "CH8_Swagger_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
